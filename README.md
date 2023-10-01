@@ -32,5 +32,6 @@ After the preferred placement, acquire its absolute path.
 Copy and paste the following and you're done:
 
 `bindkey -s '^F' 'source /Users/vidhupopli/.config/scripts/peco-z.sh^M`
+`bindkey -s '^R' 'source /Users/vidhupopli/.config/scripts/peco-history.sh^M`
 
-Start a new shell to begin using with **Ctrl + f**.
+Start a new shell to begin using with **Ctrl + f** / **Ctrl + r**.
